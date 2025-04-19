@@ -1,1 +1,1 @@
-Visit (https://allase.my.canva.site/)
+Visit [click](https://www.allase.gr)
