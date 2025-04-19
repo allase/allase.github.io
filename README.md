@@ -1,1 +1,1 @@
-Visit [click](https://www.allase.gr)
+click : [allase portfolio](https://www.allase.gr)
