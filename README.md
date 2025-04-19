@@ -1,1 +1,1 @@
-visit : [allase portfolio](https://www.allase.gr)
+visit : [allase portfolio](https://allase.my.canva.site/)
