@@ -1,1 +1,1 @@
-[allase portfolio](allase.gr).
+[allase portfolio](allase.gr)
