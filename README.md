@@ -10,6 +10,5 @@
 <p class="p5"><span class="s4"><b>CV</b></span></p>
 <p class="p2"><span class="s4">Proffesional CV.</span></p>
 <h2 style="margin: 0.0px 0.0px 15.0px 0.0px; line-height: 14.4px; font: 9.0px 'Helvetica Neue'; color: #535353; -webkit-text-stroke: #535353"><span class="s1"><b>SKILLS</b></span></h2>
-<p class="p4"><span class="s4">ALL</span></p>
-<p class="p8"><span class="s1">© 2026 Allase</span></p>
+© 2026 Allase</span></p>
 
