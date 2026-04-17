@@ -6,5 +6,5 @@
 <h2 style="margin: 0.0px 0.0px 15.0px 0.0px; line-height: 14.4px; font: 9.0px 'Helvetica Neue'; color: #535353; -webkit-text-stroke: #535353"><span class="s1"><b>PROJECTS</b></span></h2>
 <p class="p5"><span class="s4"><b>Photography Portfolio </p></b></span></p>
 <p class="p2"><span class="s4"><a href="https://allase.my.canva.site/">Here you will find my work as a concert photographer.</span></p>
-<h2 style="margin: 0.0px 0.0px 15.0px 0.0px; line-height: 14.4px; font: 9.0px 'Helvetica Neue'; color: #535353; -webkit-text-stroke: #535353"></span></p>
+<h2 style="margin: 0.0px 0.0px 15.0px 0.0px; line-height: 14.4px; font: 9.0px 'Helvetica Neue'; color: #535353; -webkit-text-stroke: #535353">
 
